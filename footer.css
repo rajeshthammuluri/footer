@@ -1,0 +1,47 @@
+footer{
+	background-color: #7FFFD4;
+	color:#FFF8DC;
+	padding: 20px 0;
+}
+
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 20px;
+
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.col{
+	flex: 1;
+	padding: 0 10px;
+
+}
+h2{
+	margin-top: 0;
+	
+
+}
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+}
+ul li{
+	margin-bottom: 0;
+
+}
+a{
+	color: #4B0082;
+	text-decoration: none;
+}
+p{
+	color: #FF4500;
+}
+a:hover{
+	text-decoration: underline;
+}
